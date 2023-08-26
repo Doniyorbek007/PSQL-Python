@@ -1,3 +1,1 @@
 # PSQL-Python
-
-Salom
